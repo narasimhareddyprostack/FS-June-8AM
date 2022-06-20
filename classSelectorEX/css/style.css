@@ -1,0 +1,20 @@
+.abc{
+    background-color: red;
+    background-image: url('./');
+    
+}
+.xyz{
+    background-color:pink;
+}
+.table{
+    background-color: aqua;
+    border: 5px;
+
+}
+.button{
+    background-color: yellow;
+}
+#btncomp{
+
+    background-color: greenyellow;
+}
